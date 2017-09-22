@@ -1,9 +1,8 @@
 ---
 layout: page
-title: Download
-permalink: /download/
+title: Contribute
+permalink: /contribute/
 
-tagline: "Loved it? Download Gravity"
 ---
 
 <br>
